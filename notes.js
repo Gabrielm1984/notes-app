@@ -68,11 +68,3 @@ const loadNotes = () => {
         return []
     }
 }
-
-//not suporteed in ES6
-// module.exports = {
-//     addNote: addNote,
-//     removeNote: removeNote,
-//     listNotes: listNotes,
-//     readNote: readNote
-// }
